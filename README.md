@@ -3,7 +3,7 @@
 Relevanta länkar att ha nära till hands under onboarding och  praktik.
 
 ## Produkt
-* [Cloud](cloud.caspeco.se/) - den webbapplikation som du kommer arbeta med under praktiken.
+* [Cloud](https://cloud.caspeco.se/) - den webbapplikation som du kommer arbeta med under praktiken.
 
 ## Rutiner och genrell info
 * [Cloud Tid](https://caspeco.atlassian.net/wiki/spaces/CMT/pages/1666318382/Team+Cloud+Tid) - En introduktion till Cloud Tid-teamet och teamets arbetsflöde.
